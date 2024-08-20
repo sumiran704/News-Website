@@ -1,0 +1,35 @@
+body {
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #343a40;
+    color: #ffffff;
+}
+
+.card {
+    border: none;
+}
+
+.card-img-top {
+    height: 300px;
+    object-fit: cover;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #343a40;
+    color: #ffffff;
+}
+
+.list-unstyled a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.list-unstyled a:hover {
+    text-decoration: underline;
+}
